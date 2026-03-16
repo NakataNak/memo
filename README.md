@@ -10,6 +10,8 @@ Ann. of Math. (2) 140 (1994), no. 1, 1–80. とか？　もっと新しく？
  - symmetric square L関数について，Bump-Ginzburg の原典は，Kazhdan-Patterson に拠るため，問題を含むよう。
    - A. C. Kable: 学位論文をもとにした [The tensor product of exceptional representations on the general linear group](https://mathscinet-ams-org.kyoto-u.idm.oclc.org/mathscinet/article?mr=1862025) か？
    - S. Takeda の成果：[4候補](https://mathscinet-ams-org.kyoto-u.idm.oclc.org/mathscinet/publications-search?query=cp%3A1173928%20aur%3Atakeda&page=1&size=20&sort=citations&facets=) のうち，[The twisted symmetric square L-function of GL(r)](https://mathscinet-ams-org.kyoto-u.idm.oclc.org/mathscinet/article?mr=3161314) か？
-11. 分裂トーラスのBD被覆の2例は削るか？
+11. 分裂トーラスのBD被覆の2例（Def. 2.1 の後）は削るか？
  -  意図が不明との指摘（非アーベルな被覆の簡単な例を言いたかっただけ）
-23. 交換子写像の記述は連結準同型に依らないとの説明が長いので，先に外観と目当てを述べる。順番を変えそう。
+23. 交換子写像の記述は連結準同型に依らないとの説明（4節のDef. 4.6 以降）が長いので，先に外観と目当てを述べる。順番を変えそう。
+## 編集部から
+この段階で，Journalの体裁に変えた方がよさそう？
